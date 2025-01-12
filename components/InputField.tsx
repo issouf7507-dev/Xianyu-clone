@@ -47,6 +47,7 @@ const InputField = ({
             />
           </View>
         </View> */}
+        {/* ad */}
       </TouchableNativeFeedback>
     </KeyboardAvoidingView>
   );
